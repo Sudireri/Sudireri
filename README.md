@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sudi
 - 👀 I’m interested in making connections with fellow tech enthusiasts
 - 🌱 I’m currently learning C and Python at ALX Programme
-- 💞️ I’m looking to collaborate on various devop projects
-- 📫 You can reach me on https://twitter.com/Sudi_Ireri and https://www.linkedin.com/in/sudi-ireri-2baa0691/
+- 💞️ I’m looking to collaborate on various software developing projects
+- 📫 You can reach me by emailing sudi.m@hotmail.com
 
 <!---
 Sudireri/Sudireri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
